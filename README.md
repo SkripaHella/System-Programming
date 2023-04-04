@@ -8,9 +8,9 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br/>
 ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●<br/>
 
-### [Лабораторная №1](https://github.com/SkripaHella/System-Programming/tree/lab_1)
-### [Лабораторная №2](https://github.com/SkripaHella/System-Programming/tree/lab_2)
-### [Лабораторная №3](https://github.com/SkripaHella/System-Programming/tree/lab_3)
+#### [Лабораторная №1](https://github.com/SkripaHella/System-Programming/tree/lab_1)
+#### [Лабораторная №2](https://github.com/SkripaHella/System-Programming/tree/lab_2)
+#### [Лабораторная №3](https://github.com/SkripaHella/System-Programming/tree/lab_3)
 
 #### [Отчет по лабораторным работам №1-3](https://github.com/SkripaHella/System-Programming/blob/main/%D0%9B%D0%A01-3%20%D0%9B%D0%BE%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%20739-1.pdf)
 
